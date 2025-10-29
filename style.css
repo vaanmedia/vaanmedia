@@ -29,6 +29,7 @@ body {
 
 .logo {
     height: 45px;
+    width: auto;
 }
 
 .navbar ul {
