@@ -27,9 +27,8 @@ body {
   border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
-.logo {
-    height: 45px;
-    width: auto;
+.logo img {
+  height: 45px;
 }
 
 .navbar ul {
