@@ -28,11 +28,9 @@ body {
 }
 
 .logo {
-  width: 80; /* pehle 80-100px hoti hai, tum isko badha lo */
-  height: auto;
-  margin-left: 20px;
-  margin-top: 10px;
+    height: 45px;
 }
+
 .navbar ul {
   display: flex;
   list-style: none;
