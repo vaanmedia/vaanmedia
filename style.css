@@ -27,10 +27,12 @@ body {
   border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 
-.logo img {
-  height: 45px;
+.logo {
+  width: 140px; /* pehle 80-100px hoti hai, tum isko badha lo */
+  height: auto;
+  margin-left: 20px;
+  margin-top: 10px;
 }
-
 .navbar ul {
   display: flex;
   list-style: none;
